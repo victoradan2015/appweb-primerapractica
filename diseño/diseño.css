@@ -1,3 +1,17 @@
+body
+{
+    margin: 0;
+    font-family: 'Lucida Sans', 'tahoma', 'verdana', 'arial', 'sans-serif';
+    line-height: 1.28;
+}
+h1 {
+    font-family: tahoma,verdana,arial,sans-serif;
+    font-size: 38px;
+    letter-spacing:0.05px;
+    margin: 0;
+    color:#fff;
+    -webkit-font-smoothing: antialiased;
+  }
 #encabezado
 {
     width: 100%;
@@ -9,4 +23,148 @@
     margin: 0;
     width: 980px;
     height: 59px;
+}
+.tablacorrcontra
+{
+}
+#boton
+{
+    position: relative;
+    width: 45px;
+    height: 18px;
+    background-color: #4267b2;
+    border: 1px solid #29487d;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    padding: 2px 6px;
+    padding-top: 2px;
+    padding-right: 6px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    display: inline-block;
+}
+.olvidastecontra
+{
+    color:#9cb4d8;
+    font-weight: normal;
+    font-size: 12px;
+    cursor: pointer;
+}
+.tcorreoycon
+{
+    color: #fff;
+    font-weight: normal;
+    padding-left: 1px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.inputtext
+{
+    border-color: #1d2a5b;
+    margin: 0;
+    width: 142px;
+    margin: 0;
+    border: 1px solid;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+}
+.logoFB
+{
+    display: block;
+    padding: 30px 0;
+    cursor: pointer;
+}
+.tablacorrcontra
+{
+    float: right;
+    padding-top: 13px;
+}
+.contenido
+{
+    width: 100%;
+    height: 606px;
+    background-color: #edf0f5;
+}
+.contenido2
+{
+    margin: 0 auto;
+    width: 980px;
+    padding-top: 20px;
+}
+.izq
+{
+    float: left;
+}
+.izqtext
+{
+    color: #0e385f;
+    font-size:20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px
+}
+.derech
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 399px;
+    height: 200px;
+    float: right;
+}
+.tRegistrate
+{
+    font-size: 36px;
+    -webkit-font-smoothing: antialiased;
+    font-weight:700;
+    margin-bottom:5px;
+}
+.tEsRapido
+{
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+.bol
+{
+    font-family: 'Open Sans',sans-serif;
+    text-rendering:optimizelegibility;
+    color:#333;
+}
+.formbox
+{
+    display: inline-block;
+    width: 399px;
+}
+.iNomAp
+{
+    width: 172px;
+}
+.iReg
+{
+    display: inline-block;
+    font-size: 18px;
+    padding: 8px 10px;
+    border: 1px solid #bdc7d8;
+    -webkit-border-radius: 5px;
+    color:#333;
+    margin-bottom:10px;
+}
+.Ap
+{
+    float: right;
+}
+.iCorr
+{
+    width: 377px;
+}
+.tNacimiento
+{
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
 }
